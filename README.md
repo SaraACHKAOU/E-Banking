@@ -36,7 +36,7 @@ The frontend of the digital bank project is developed using Angular framework. I
 
 ### Screenshots
 
-1. Customers Page: ![Customers Page](/screenshots/1-customers.png)
+1. Customers Page: ![Customers Page](/screenshots_Of_App/1-Customers Page.png)
 2. Search Functionality: ![Search Functionality](/screenshots/2-search.png)
 3. Add New Customer: ![Add New Customer](/screenshots/3-new-cust.png)
 4. Delete Customer: ![Delete Customer](/screenshots/4-delete.png)
