@@ -34,15 +34,7 @@ The backend of the digital bank project is developed using Spring Boot framework
 
 The frontend of the digital bank project is developed using Angular framework. It provides an intuitive user interface for interacting with the application.
 
-### Screenshots
 
-1. Customers Page: ![Customers Page](/screenshots_Of_App/1-Customers Page.png)
-2. Search Functionality: ![Search Functionality](/screenshots/2-search.png)
-3. Add New Customer: ![Add New Customer](/screenshots/3-new-cust.png)
-4. Delete Customer: ![Delete Customer](/screenshots/4-delete.png)
-5. Accounts Page: ![Accounts Page](/screenshots/5-accounts.png)
-6. Debit Operation: ![Debit Operation](/screenshots/6-debit.png)
-7. Transfer Operation: ![Transfer Operation](/screenshots/7-transfer.png)
 
 ## Getting Started
 
